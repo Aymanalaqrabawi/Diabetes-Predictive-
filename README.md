@@ -61,7 +61,7 @@ Users can input their medical info and receive real-time prediction results.
 🌐 Live App
 
 Try the web app here:
-🔗 https://your-app-name.streamlit.app/ ([replace with your real link](http://localhost:8501/))
+🔗 https://diabetes-predictive-name.streamlit.app/ (http://localhost:8501/))
 
 
 ---
